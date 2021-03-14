@@ -65,20 +65,26 @@ footer {
 
   #column-1 {
     background-color: #b3ffb3 ;
+
   }
 
   #column-2 {
-    background-color: #ffffb3 ;
+    background-color: #ffffb3;
+
   }
 
   #column-3 {
-    background-color: #b3e6ff ;
+    background-color: #b3e6ff;
+    width:
   }
 
   footer {
     background-color: ;
   }
-
+  .col-3 {
+    width: 33.33%;
+    height: 320px;
+    float: left;
 }
 
 
@@ -90,18 +96,28 @@ footer {
 
   #column-1 {
     background-color: #9f9fdf;
+    
+
   }
 
   #column-2 {
     background-color: #df9fdf;
+
+
   }
 
   #column-3 {
     background-color: #ff80aa;
+
+
   }
 
   footer {
     background-color: ;
   }
 
+  .col-3 {
+    width: 33.33%;
+    height: 320px;
+    float: left;
 }
